@@ -40,18 +40,28 @@ sudo apt-get -y install grafana
 E inicie o serviço Grafana
 
 ```bash
+sudo systemctl daemon-reload
 sudo systemctl enable --now grafana-server
 ```
 
 Para checar se o serviço está ok, você pode utilizar o seguinte comando
 
 ```bash
-sudo systemctl status grafana-server.service 
+sudo systemctl status grafana-server 
+```
+
+E caso seja necessário iniciar o servidor 
+
+```bash
+sudo systemctl start grafana-server
 ```
 
 ## Como acessar o Grafana
 
-Para acessar o grafana use a url local (por padrão 0.0.0.0:3000 ou 127.0.0.1:3000)
+Para acessar o grafana use a url local (por padrão 0.0.0.0:3000 ou 127.0.0.1:3000).
+Ou utilize o netstat para verificar qual IP escutando na porta 3000.
+
+http://seu-ip:3000
 
 utilizando a senha abaixo:
 

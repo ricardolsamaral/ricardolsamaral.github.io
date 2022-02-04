@@ -21,12 +21,11 @@ timezone: America/Sao_Paulo
 
 title: Na Caverna                          # the main title
 
-tagline: Blog pessoal   # it will display as the sub-title
+tagline: Blog sobre o mundo DevOps e Infraestrutura   # it will display as the sub-title
 
 description: >-                        # used by seo meta and the atom feed
-  Blog Na Caverna tem como objetivo principal
-  compartilhar ideias sobre tecnologia, monitoramento, python, 
-  grafana, telegraf e linux em geral.
+  Blog sobre mundo DevOps e Infraestrutura.
+  Ideias sobre tecnologia, monitoramento, python, grafana, telegraf e linux em geral.
 
 # fill in the protocol & hostname for your site, e.g., 'https://username.github.io'
 url: 'https://ricardolsamaral.github.io'
@@ -46,12 +45,12 @@ social:
   email: ricardolsamaral@gmail.com           # change to your email address
   links:
     # The first element serves as the copyright owner's link
-    - https://twitter.com/ricardolsamaral      # change to your twitter homepage
-    - https://github.com/ricardolsamaral       # change to your github homepage
+    - https://twitter.com/ricardolsamaral 
+    - https://github.com/ricardolsamaral
     # - https://www.facebook.com/username
     - https://www.linkedin.com/in/ricardolsamaral
 
-google_site_verification: google_meta_tag_verification # change to your verification string
+google_site_verification: google-site-verification=qQnd0Itt5MqNUpMX5SegvOMtODQOIhmmTyBGL16Gw9Q # change to your verification string
 # --------------------------
 
 google_analytics:

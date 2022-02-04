@@ -59,7 +59,7 @@ sudo systemctl start grafana-server
 ## Como acessar o Grafana
 
 Para acessar o grafana use a url local (por padrão 0.0.0.0:3000 ou 127.0.0.1:3000).
-Ou utilize o netstat para verificar qual IP escutando na porta 3000.
+Ou utilize o *netstat* para verificar qual IP escutando na porta 3000.
 
 http://seu-ip:3000
 

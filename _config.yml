@@ -55,7 +55,7 @@ google_site_verification: -LbIQIc-XOzOweXq2S88wza8UTsBx1Ip44-o_KDcRAM # change t
 # --------------------------
 
 google_analytics:
-  id: 'G-SQZNTWKK58'          # Fill with your Google Analytics ID
+  id: ''          # Fill with your Google Analytics ID : G-SQZNTWKK58
   pv:
     # The Google Analytics pageviews switch.
     # DO NOT enable it unless you know how to deploy the Google Analytics superProxy.

@@ -14,7 +14,7 @@ Esse é post relacionado ao processo de instalação do Grafana no ubuntu.
 
 O Grafana é uma ferramenta gratuita que permite gerenciar e criar dashboards para visualização de métricas utilizando os principais CMDBs, como o Prometheus e o InfluxDB, assim como outras fontes de dados como MySQL, Graphite, PostgreSQL e Elasticsearch. 
 
-## Instalando no Ubuntu
+## Instalando o Grafana no Ubuntu
 
 Para instalar a última versão disponível  do Grafana, adicione o seguinte repositório no seu servidor utilizando os comandos abaixo:
 

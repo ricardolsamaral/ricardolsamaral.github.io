@@ -12,7 +12,7 @@ Nesse artigo gostaria de compartilhar um setup de exemplo para uma estação de 
 
 ## Instalando o Ubuntu desktop
 
-No site oficial podemos encontrar o passo a passo para a instalação do ubuntu utilizando criando um Pen Drive bootável.
+No site oficial do Ubuntu nós podemos encontrar o passo a passo para a instalação do Ubuntu 20.04.3 LTS(versão atual) utilizando a criação de um Pen Drive bootável.
 
 * [Instalando o Ubuntu desktop](https://ubuntu.com/tutorials/install-ubuntu-desktop)
 

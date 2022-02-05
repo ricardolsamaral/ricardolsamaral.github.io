@@ -3,12 +3,12 @@ title: Como instalar o Grafana no Ubuntu
 author:
   name: Ricardo Amaral
   link: https://github.com/ricardolsamaral
-date: 2022-02-03 08:00:00 +0800
+date: 2022-02-03 08:00:00 -0300
 categories: [Monitoramento, Grafana]
 tags: [monitoramento, grafana]
 ---
 
-Esse é post relacionado ao processo de instalação do Grafana no ubuntu.
+> Esse é post relacionado ao processo de instalação do Grafana no ubuntu.
 
 ## O que é o Grafana
 

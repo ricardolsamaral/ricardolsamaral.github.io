@@ -8,7 +8,7 @@ categories: [Monitoramento, Telegraf]
 tags: [monitoramento, telegraf, bash]
 ---
 
-Esse é post relacionado ao processo de criação de um plugin em bash para execução no Telegraf.
+> Esse é post relacionado ao processo de criação de um plugin em bash para execução no Telegraf.
 
 ## O que é o plugin inputs.exec 
 

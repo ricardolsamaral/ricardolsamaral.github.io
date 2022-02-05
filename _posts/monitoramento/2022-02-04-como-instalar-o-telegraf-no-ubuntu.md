@@ -8,7 +8,7 @@ categories: [Monitoramento, Telegraf]
 tags: [monitoramento, telegraf]
 ---
 
-Esse é post relacionado ao processo de instalação do Telegraf no ubuntu.
+> Esse é post relacionado ao processo de instalação do Telegraf no ubuntu.
 
 ## O que é o Telegraf
 
@@ -52,6 +52,12 @@ sudo systemctl start telegraf
 Para checar se o serviço está ok, você pode utilizar o seguinte comando
 ```bash
 sudo systemctl status telegraf 
+```
+
+Para verificar os logs
+
+```bash
+sudo journalctl -f -u telegraf.service
 ```
 
 ## Configurando o serviço do telegraf

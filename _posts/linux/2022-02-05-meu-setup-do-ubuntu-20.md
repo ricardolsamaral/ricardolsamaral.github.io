@@ -8,7 +8,7 @@ categories: [Linux, Ubuntu]
 tags: [ubuntu, linux, setup]
 ---
 
-Nesse artigo gostaria de compartilhar um setup de exemplo para uma estação de trabalho com sistema operacional Ubuntu 20.04 configurado.
+> Nesse artigo gostaria de compartilhar um setup de exemplo para uma estação de trabalho com sistema operacional Ubuntu 20.04 configurado.
 
 ## Instalando o Ubuntu desktop
 

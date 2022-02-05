@@ -55,7 +55,7 @@ google_site_verification: -LbIQIc-XOzOweXq2S88wza8UTsBx1Ip44-o_KDcRAM # change t
 # --------------------------
 
 google_analytics:
-  id: ''          # Fill with your Google Analytics ID : G-SQZNTWKK58
+  id: ''          # Fill with your Google Analytics ID
   pv:
     # The Google Analytics pageviews switch.
     # DO NOT enable it unless you know how to deploy the Google Analytics superProxy.
@@ -102,7 +102,7 @@ kramdown:
     span:
       line_numbers: false
     block:
-      line_numbers: false
+      line_numbers: true
       start_line: 1
 
 collections:

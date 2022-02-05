@@ -20,7 +20,14 @@ Para qualquer script com saída para o influxdb você deve ter uma saída como n
 
 ```bash
 #!/bin/bash
-echo 'nomedoplugin,tag1=,tag2=b valor1=42i,valor2=43i,valor3=44i'
+echo 'nomedoplugin,tag1=a,tag2=b valor1=42i,valor2=43i,valor3=44i'
+```
+
+Por exemplo:
+
+```bash
+#!/bin/bash
+echo 'speedtest,country=br,provedor=xyz ipaddress=127.0.0.1,download=8065038.08428252,upload=2075037.06488392,ping=36.1'
 ```
 
 Após isso poderá ser inserido dentro do arquivo de configuração do telegraf em `/etc/telegraf/telegraf.conf` ou então criando um novo arquivo `.conf` dentro do diretório `/etc/telegraf/telegraf.d`.

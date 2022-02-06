@@ -55,7 +55,6 @@ sudo systemctl status telegraf
 ```
 
 Para verificar os logs
-
 ```bash
 sudo journalctl -f -u telegraf.service
 ```

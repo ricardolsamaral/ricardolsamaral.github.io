@@ -30,14 +30,14 @@ Para verificar a versão instalada:
 
 ## Instalando o Google Chrome via wget
 
-Para instalar a versão estável mais recente do pacote google-chrome-stable utilize os comando abaixo.
+Para instalar a versão estável mais recente do pacote google-chrome-stable utilize os comandos abaixo.
 
-Primeiro baixo o .deb utilizando o comando wget:
+Primeiro baixoe o arquivo do `.deb` utilizando o comando `wget`:
 ```bash
 ❯ wget https://dl.google.com/linux/direct/google-chrome-stable_current_amd64.deb
 ```
 
-Após isso instale o pacote google-chrome-stable_current_amd64.deb utilizando o comando do dpkg: 
+Após isso instale o pacote `google-chrome-stable_current_amd64.deb` utilizando o comando do `dpkg`: 
 ```bash
 ❯ sudo dpkg -i google-chrome-stable_current_amd64.deb 
 ```

@@ -5,7 +5,7 @@ author:
   link: https://github.com/ricardolsamaral
 date: 2022-02-05 15:00:00 -0300
 categories: [Linux, Ubuntu]
-tags: [ubuntu, linux, setup]
+tags: [ubuntu, linux, setup, devops]
 ---
 
 > Nesse artigo gostaria de compartilhar um setup de exemplo para uma estação de trabalho com sistema operacional Ubuntu 20.04 configurado.

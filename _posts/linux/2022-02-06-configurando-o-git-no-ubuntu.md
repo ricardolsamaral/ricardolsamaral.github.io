@@ -4,8 +4,8 @@ author:
   name: Ricardo Amaral
   link: https://github.com/ricardolsamaral
 date: 2022-02-06 15:00:00 -0300
-categories: [Linux, Ubuntu, DevOps]
-tags: [ubuntu, linux, setup, git]
+categories: [Linux, Ubuntu]
+tags: [ubuntu, linux, setup, git, devops]
 ---
 
 > Nesse artigo gostaria de compartilhar um exemplo de um setup do Git no Ubuntu.

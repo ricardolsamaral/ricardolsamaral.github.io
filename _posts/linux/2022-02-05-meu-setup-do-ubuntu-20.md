@@ -16,21 +16,18 @@ No site oficial do Ubuntu n√≥s podemos encontrar o passo a passo para a instala√
 
 * [Instalando o Ubuntu desktop](https://ubuntu.com/tutorials/install-ubuntu-desktop)
 
-
 ## Setup inicial do Ubuntu 20.04
-
 * [Configurando o Git no Ubuntu](https://ricardolsamaral.github.io/posts/configurando-o-git-no-ubuntu)
 
 ## Instalando pacotes
-
-* To-do
+* [Como instalar o Google Chrome no Ubuntu](https://ricardolsamaral.github.io/posts/como-instalar-o-google-chrome-no-ubuntu)
 
 ## To-do list for this article
 
 - [ ] Setup inicial do Ubuntu 20.04
 - [ ] Instalando pacotes outros pacotes
 - [x] Configurando o Git no Ubuntu
-- [x] Instalando o Google Chrome no Ubuntu
+- [x] Como instalar o Google Chrome no Ubuntu
 - [ ] Como instalar e configurar o AWS-CLI no Ubuntu 
 - [ ] Como instalar e configurar o Java no Ubuntu 
 - [ ] Como instalar e configurar o Docker no Ubuntu 

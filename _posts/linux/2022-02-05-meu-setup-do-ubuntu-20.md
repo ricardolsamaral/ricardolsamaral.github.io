@@ -30,7 +30,7 @@ No site oficial do Ubuntu n√≥s podemos encontrar o passo a passo para a instala√
 - [ ] Setup inicial do Ubuntu 20.04
 - [ ] Instalando pacotes outros pacotes
 - [x] Configurando o Git no Ubuntu
-- [ ] Instalando o Google Chrome no Ubuntu
+- [x] Instalando o Google Chrome no Ubuntu
 - [ ] Como instalar e configurar o AWS-CLI no Ubuntu 
 - [ ] Como instalar e configurar o Java no Ubuntu 
 - [ ] Como instalar e configurar o Docker no Ubuntu 

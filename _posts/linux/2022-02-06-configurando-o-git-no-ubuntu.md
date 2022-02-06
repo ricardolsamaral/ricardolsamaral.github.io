@@ -8,11 +8,11 @@ categories: [Linux, Ubuntu, DevOps]
 tags: [ubuntu, linux, setup, git]
 ---
 
-> Nesse artigo gostaria de compartilhar um exemplo de setup do Git no Ubuntu.
+> Nesse artigo gostaria de compartilhar um exemplo de um setup do Git no Ubuntu.
 
 ## Instalando o Git no seu Ubuntu desktop
 
-Caso não tenha instalado o git você pode instalar a partir do seu terminal.
+Caso não esteja instalado o git, você pode instalar a partir do seu terminal.
 
 Primeiro faço um update:
 ```bash
@@ -37,13 +37,12 @@ Abra o terminal e digite:
 ```
 
 Para verificar o nome do usuário use o comando:
-
 ```bash
 ❯ git config --global user.name
 Peter Pan
 ```
 
-# Como definir um endereço de email no seu Git
+##  Como definir um endereço de email no seu Git
 
 Para definir um email use o comando:
 ```bash
@@ -55,8 +54,9 @@ Para verificar o email use o comando:
 ❯ git config --global user.email
 email@exemplo.com.br
 ```
+## Listar todas configurações do Git
 
-Se quiser verificar todas as configurações do git:
+Se quiser verificar todas as configurações do Git:
 ```bash
 ❯ git config --list
 ```
